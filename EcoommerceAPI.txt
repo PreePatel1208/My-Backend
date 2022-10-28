@@ -1,0 +1,24 @@
+----------------------------
+Ecoomerce Project in NodejS: https://github.com/Braineanear/EcommerceAPI#deployed-version
+----------------------------
+MongoDB login
+Email : kmc.narola@gmail.com
+Password : Admin@123
+----------------------------
+MongoDB database login
+Username : kmcnarola
+Password : 7chQ7CSRCeX2UySS
+Connection URL: mongodb+srv://kmcnarola:7chQ7CSRCeX2UySS@ecommerceapi.7xtl8sh.mongodb.net/?retryWrites=true&w=majority
+----------------------------
+For file uploading
+URL: https://cloudinary.com/console/c-3bc4ad98259faf43fe3b889a9c7f41
+Google Login : devsvpt.narola@gmail.com
+Cloud Name: dq2ofhn3c
+API Key: 439211516184881
+API Secret: DLX45IazQbub9wbWMfl350AbKIM
+----------------------------
+
+Run project 
+------------
+yarn install
+yarn run start:dev
